@@ -4,7 +4,7 @@ This is my home page! My name is Alexia Macias, and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/lexi-macias.
+My GitHub page is [https://github.com/lexi-macias](https://github.com/lexi-macias).
 
 ### CPSC 120
 
